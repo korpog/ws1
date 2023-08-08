@@ -1,4 +1,4 @@
-Web-scraping script I use track job offers. Created with Python and BeautifulSoup4
+Web-scraping script I use for tracking job offers. Created with Python and BeautifulSoup4
 
 Sample output:
 ```
